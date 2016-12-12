@@ -17,6 +17,3 @@ PLATFORMS
 DEPENDENCIES
   sinatra
   turbolinks-source
-
-BUNDLED WITH
-   1.10.6
